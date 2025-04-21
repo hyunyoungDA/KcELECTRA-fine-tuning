@@ -10,7 +10,7 @@ VIDEO_ID = "68C679HqGbs"
 
 comments = list()
 ## 고유 YouTube data API v3
-api_obj = build('youtube', 'v3', developerKey='AIzaSyAbDh3SBjRvpUzDbGNLyQo5jQaemiQGClA')
+api_obj = build('youtube', 'v3', "your api key")
 
 # videoid -> 유튜브 고유 아이디
 # maxResults: 한 번의 요청에서 최대 100개 댓글을 가져옴
