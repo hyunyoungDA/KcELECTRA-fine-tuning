@@ -26,7 +26,8 @@
    - **정밀도 (Precision)**: 각 카테고리의 예측이 실제로 얼마나 정확한지를 나타냅니다.
    - **재현율 (Recall)**: 실제로 각 카테고리에 속하는 데이터가 얼마나 잘 분류되는지 평가합니다.
    - **F1-score**: 정밀도와 재현율의 조화 평균으로, 모델의 전반적인 성능을 평가합니다.
-   - ![모델 혼동행렬](https://github.com/user-attachments/assets/72a476fc-43e2-4470-94f4-33585752092c)
+   - ![모델 혼동행렬](https://github.com/user-attachments/assets/2561150d-7a44-4317-b24f-846b09f784ff)
+
    - 
 ## 시스템 설계
 
