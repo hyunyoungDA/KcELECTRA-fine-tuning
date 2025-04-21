@@ -10,8 +10,6 @@
 
 - **KcELECTRA**: 한국어에 최적화된 ELECTRA 모델로, 텍스트를 이해하고 분류하는 성능이 뛰어나며, 이 연구에서 핵심 모델로 사용되었습니다.
 - **KoELECTRA**: 한국어 데이터셋에 대해 사전 훈련된 또 다른 ELECTRA 기반 모델입니다. KcELECTRA와 비교하여 성능 차이를 분석하고 연구의 기반이 됩니다.
-- [image](https://github.com/user-attachments/assets/c5935834-c9af-42df-b83e-3f89fc14a524)
-
 
 ## 데이터셋
 
@@ -29,10 +27,7 @@
    - **재현율 (Recall)**: 실제로 각 카테고리에 속하는 데이터가 얼마나 잘 분류되는지 평가합니다.
    - **F1-score**: 정밀도와 재현율의 조화 평균으로, 모델의 전반적인 성능을 평가합니다.
    - ![모델 혼동행렬](https://github.com/user-attachments/assets/72a476fc-43e2-4470-94f4-33585752092c)
-
-   - [모델 예측과 실제 라벨](https://github.com/user-attachments/assets/58c97a3d-e230-4dd8-a784-3c8fa4ead0b9)
-
-
+   - 
 ## 시스템 설계
 
 ![선한 댓글 정렬 UI](htps://github.com/user-attachments/assets/3fb7222d-2b88-46d4-ab3d-31b38f85d808)
@@ -42,7 +37,7 @@
 
 ## 참고 문헌
 
-본 프로젝트의 관련 연구 내용은 [KcELECTRA 모델을 활용한 악성 댓글 탐지 및 선한 댓글 우선 정렬](https://link_to_your_paper.com)에서 확인하실 수 있습니다.
+본 프로젝트의 관련 연구 내용은 [KcELECTRA 모델을 활용한 악성 댓글 탐지 및 선한 댓글 우선 정렬]([https://link_to_your_paper.com](https://github.com/hyunyoungDA/KcELECTRA-fine-tuning/blob/main/KcELECTRA%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%85%EC%84%B1%20%EB%8C%93%EA%B8%80%20%ED%83%90%EC%A7%80%20%EB%B0%8F%20%EC%84%A0%ED%95%9C%20%EB%8C%93%EA%B8%80%20%EC%9A%B0%EC%84%A0%20%EC%A0%95%EB%A0%AC.pdf))에서 확인하실 수 있습니다.
 
 ...
 
