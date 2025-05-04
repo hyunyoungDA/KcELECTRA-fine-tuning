@@ -28,7 +28,7 @@ training_args = TrainingArguments(
     logging_dir="./logs",
     logging_steps=200,
     # load_best_model_at_end=True,  # 가장 좋은 모델을 훈련 후 저장
-    no_cuda=True,  # CPU 사용
+    no_cuda=True,  # CPU 사용할때만 
 )
 
 # EarlyStoppingCallback 설정 (검증 손실이 개선되지 않으면 학습을 중단)
