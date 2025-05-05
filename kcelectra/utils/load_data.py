@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split
 def load_data(file_path):
     
     abs_path = os.path.abspath(file_path)
-    print(f"🔍 Trying to load file at: {abs_path}")
-    print(f"📂 File exists? {os.path.exists(abs_path)}")
+    print(f"Trying to load file at: {abs_path}")
+    print(f"File exists? {os.path.exists(abs_path)}")
     
     df = pd.read_excel(abs_path)
     
