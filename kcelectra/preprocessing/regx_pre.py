@@ -25,8 +25,8 @@ file_path = "merged_comments.xlsx"
 df = pd.read_excel(file_path)
 
 abs_path = os.path.abspath(file_path)
-print(f"🔍 Trying to load file at: {abs_path}")
-print(f"📂 File exists? {os.path.exists(abs_path)}")
+print(f"Trying to load file at: {abs_path}")
+print(f"File exists? {os.path.exists(abs_path)}")
 
 ## 정규표현식 전처리
 pattern = re.compile('[^ ㄱ-ㅣ가-힣]+')
