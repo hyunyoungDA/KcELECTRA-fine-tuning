@@ -28,7 +28,6 @@
    - **F1-score**: 정밀도와 재현율의 조화 평균으로, 모델의 전반적인 성능을 평가합니다.
    - ![모델 혼동행렬](https://github.com/user-attachments/assets/2561150d-7a44-4317-b24f-846b09f784ff)
 
-   - 
 ## 시스템 설계(UI)
 
 연구에서는 긍정적인 댓글을 우선적으로 표시하는 시스템을 제안합니다. 이 시스템은 KcELECTRA 모델을 사용하여 댓글을 자동으로 분류하고, 긍정적인 댓글을 더 높은 우선순위로 표시하여 사용자에게 제공하게 됩니다. 이러한 시스템은 커뮤니티의 건전한 소통을 유도하는 데 기여할 수 있습니다.
@@ -37,5 +36,4 @@
 
 본 프로젝트의 관련 연구 내용은 [KcELECTRA 모델을 활용한 악성 댓글 탐지 및 선한 댓글 우선 정렬]([https://link_to_your_paper.com](https://github.com/hyunyoungDA/KcELECTRA-fine-tuning/blob/main/KcELECTRA%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%85%EC%84%B1%20%EB%8C%93%EA%B8%80%20%ED%83%90%EC%A7%80%20%EB%B0%8F%20%EC%84%A0%ED%95%9C%20%EB%8C%93%EA%B8%80%20%EC%9A%B0%EC%84%A0%20%EC%A0%95%EB%A0%AC.pdf))에서 확인하실 수 있습니다.
 
-...
 
