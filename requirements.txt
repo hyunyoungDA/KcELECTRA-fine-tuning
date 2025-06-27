@@ -1,0 +1,16 @@
+accelerate==1.6.0
+beautifulsoup4 @ file:///C:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
+datasets==3.5.0
+emoji==2.14.1
+konlpy==0.6.0
+matplotlib==3.9.2
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
+pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp39-cp39-win_amd64.whl#sha256=f3b41dc9b2687250cbbb5587843986d13008da63bfb026b34d05d4d2f3eab666
+scikit-image @ file:///C:/ci/scikit-image_1648214340990/work
+scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp39-cp39-win_amd64.whl#sha256=5d1fd0a91f9c244e66bf5bcca98333fb0af3ed1fea525b6d0398fc53eb9dc17f
+seaborn @ file:///C:/b/abs_12uob0tcou/croot/seaborn_1738256922386/work
+selenium==4.29.0
+soynlp==0.0.493
+torch==2.6.0
+tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
+transformers==4.51.3
